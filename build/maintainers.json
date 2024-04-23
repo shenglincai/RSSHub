@@ -826,6 +826,9 @@
   "/bnu/lib/:category?": [
     "TonyRL"
   ],
+  "/bnu/mba/:category{.+}?": [
+    "nczitzk"
+  ],
   "/boc/whpj/:format?": [
     "LogicJake",
     "HenryQW"
@@ -1223,6 +1226,9 @@
   "/codeforces/recent-actions/:minrating?": [],
   "/coindesk/consensus-magazine": [
     "jameshih"
+  ],
+  "/colamanga/:id": [
+    "machsix"
   ],
   "/comicat/search/:keyword": [
     "Cyang39"
